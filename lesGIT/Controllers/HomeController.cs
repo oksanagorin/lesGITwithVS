@@ -17,7 +17,7 @@ namespace lesGIT.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.!!!!!!!!!!!!!!! GIT !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!";
+            ViewData["Message"] = "Your application description page.!!!!!!!!!!!!!!! GIT !!!!!!!!!!!!!!!++ feature_1++ !!!!!!!!!!!!!!!!!!!!!";
 
             return View();
         }
